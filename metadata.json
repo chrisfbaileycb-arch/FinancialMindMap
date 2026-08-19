@@ -1,0 +1,8 @@
+{
+  "name": "Financial Mind Map",
+  "description": "Interactive visual financial mind map, budget manager, goals tracker, portfolio insights, and financial education.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
